@@ -7,3 +7,12 @@ This repository contains the complete capstone project for MSDS-696.
 The goal is to classify aerial disaster images into three damage categories — Intact, Major Damage, and Structural Failure — using custom CNN architectures built with no pretrained weights.
 
 The dataset used is LADI v2 (Low Altitude Disaster Imagery), a federal government dataset collected by Civil Air Patrol pilots across US disaster zones from 2015 to 2023, developed by MIT Lincoln Laboratory.
+
+The Repositorycontains the following files:
+- Dataset Preprocessing Notebook
+- CNN Model training Notebooks
+- Model Benchhmarking Notebook
+- GRAD-CAM Visualization Notebook
+- Project Report
+- Presentation Slide
+- GRAD-CAM video
